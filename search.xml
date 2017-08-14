@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[home-pc 测试]]></title>
+    <url>%2F2017%2F08%2F11%2Fhome-pc-%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo 博客搭建全记录]]></title>
+    <url>%2F2017%2F08%2F11%2F2017-08-11-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[文中主要内容有我搭建个人博客的过程记录，如选用 jekyll 还是 Hexo，Hexo 的部署过程以及我认为最难的“如何在不同的电脑上进行维护”。 言归正传。 从阳志平老师的文章那里受到启发，开始学习git，之后觉得我也得开始写博客，然后就知道了可以用 github pages 搭建网站，看到网上有人说有个人域名这样比较酷，酷不酷我还不是很清楚，但是这个对激励自己，使自己获得内驱力真的是有帮助的，于是我从耐思尼克 购买了一个top域名wanghusw.top。 我看到大家说用 jekyll 比较好，于是我就开始了艰难的尝试过程，有差不多3天的时间我都在鼓捣 jekyll。后来我发现我要陷入到]]></content>
+      <tags>
+        <tag>建站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Apc测试]]></title>
+    <url>%2F2017%2F08%2F11%2FApc%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>测试</tag>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Bpc测试]]></title>
+    <url>%2F2017%2F08%2F11%2FBpc%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F08%2F11%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>

@@ -30,11 +30,11 @@
   </entry>
   
   <entry>
-    <title>2017-08-11-Hexo 博客搭建全记录</title>
-    <link href="http://wanghusw.top/2017/08/11/Hexo%20%E5%BB%BA%E7%AB%99%E5%85%A8%E8%AE%B0%E5%BD%95/"/>
-    <id>http://wanghusw.top/2017/08/11/Hexo 建站全记录/</id>
+    <title>Hexo 博客搭建全记录</title>
+    <link href="http://wanghusw.top/2017/08/11/2017-08-11-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E8%AE%B0%E5%BD%95/"/>
+    <id>http://wanghusw.top/2017/08/11/2017-08-11-Hexo博客搭建全记录/</id>
     <published>2017-08-11T07:26:53.000Z</published>
-    <updated>2017-08-11T07:51:22.527Z</updated>
+    <updated>2017-08-14T05:41:19.341Z</updated>
     
     <content type="html"><![CDATA[<p>文中主要内容有我搭建个人博客的过程记录，如选用 jekyll 还是 Hexo，Hexo 的部署过程以及我认为最难的“如何在不同的电脑上进行维护”。</p>
 <p>言归正传。</p>
