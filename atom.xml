@@ -34,9 +34,13 @@
     <link href="http://wanghusw.top/2017/08/11/2017-08-11-Hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%85%A8%E8%AE%B0%E5%BD%95/"/>
     <id>http://wanghusw.top/2017/08/11/2017-08-11-Hexo博客搭建全记录/</id>
     <published>2017-08-11T07:26:53.000Z</published>
-    <updated>2017-08-14T05:41:19.341Z</updated>
+    <updated>2017-08-14T05:51:58.193Z</updated>
     
     <content type="html"><![CDATA[<p>文中主要内容有我搭建个人博客的过程记录，如选用 jekyll 还是 Hexo，Hexo 的部署过程以及我认为最难的“如何在不同的电脑上进行维护”。</p>
+<p>言归正传。<br><a id="more"></a></p>
+<p>从阳志平老师的文章那里受到启发，开始学习git，之后觉得我也得开始写博客，然后就知道了可以用 github pages 搭建网站，看到网上有人说有个人域名这样比较酷，酷不酷我还不是很清楚，但是这个对激励自己，使自己获得内驱力真的是有帮助的，于是我从<a href="http://www.iisp.com/" target="_blank" rel="external">耐思尼克</a> 购买了一个<code>top</code>域名<a href="wanghusw.top">wanghusw.top</a>。</p>
+<p>我看到大家说用 jekyll 比较好，于是我就开始了艰难的尝试过程，有差不多3天的时间我都在鼓捣 jekyll。后来我发现我要陷入到</p>
+<p>文中主要内容有我搭建个人博客的过程记录，如选用 jekyll 还是 Hexo，Hexo 的部署过程以及我认为最难的“如何在不同的电脑上进行维护”。</p>
 <p>言归正传。</p>
 <p>从阳志平老师的文章那里受到启发，开始学习git，之后觉得我也得开始写博客，然后就知道了可以用 github pages 搭建网站，看到网上有人说有个人域名这样比较酷，酷不酷我还不是很清楚，但是这个对激励自己，使自己获得内驱力真的是有帮助的，于是我从<a href="http://www.iisp.com/" target="_blank" rel="external">耐思尼克</a> 购买了一个<code>top</code>域名<a href="wanghusw.top">wanghusw.top</a>。</p>
 <p>我看到大家说用 jekyll 比较好，于是我就开始了艰难的尝试过程，有差不多3天的时间我都在鼓捣 jekyll。后来我发现我要陷入到</p>
@@ -45,31 +49,12 @@
     <summary type="html">
     
       &lt;p&gt;文中主要内容有我搭建个人博客的过程记录，如选用 jekyll 还是 Hexo，Hexo 的部署过程以及我认为最难的“如何在不同的电脑上进行维护”。&lt;/p&gt;
-&lt;p&gt;言归正传。&lt;/p&gt;
-&lt;p&gt;从阳志平老师的文章那里受到启发，开始学习git，之后觉得我也得开始写博客，然后就知道了
+&lt;p&gt;言归正传。&lt;br&gt;
     
     </summary>
     
     
       <category term="建站" scheme="http://wanghusw.top/tags/%E5%BB%BA%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Apc测试</title>
-    <link href="http://wanghusw.top/2017/08/11/Apc%E6%B5%8B%E8%AF%95/"/>
-    <id>http://wanghusw.top/2017/08/11/Apc测试/</id>
-    <published>2017-08-11T07:13:47.000Z</published>
-    <updated>2017-08-14T00:49:41.044Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="测试" scheme="http://wanghusw.top/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="test" scheme="http://wanghusw.top/tags/test/"/>
     
   </entry>
   
@@ -111,6 +96,24 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Apc测试</title>
+    <link href="http://wanghusw.top/2015/08/11/Apc%E6%B5%8B%E8%AF%95/"/>
+    <id>http://wanghusw.top/2015/08/11/Apc测试/</id>
+    <published>2015-08-11T07:13:47.000Z</published>
+    <updated>2017-08-14T06:10:22.528Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://wanghusw.top/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="test" scheme="http://wanghusw.top/tags/test/"/>
     
   </entry>
   
